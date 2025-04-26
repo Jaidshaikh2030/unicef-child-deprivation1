@@ -1,0 +1,371 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,deprivation_score,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Afghanistan,AF,AFG,4,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Albania,AL,ALB,8,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Albania,AL,ALB,8,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Algeria,DZ,DZA,12,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Algeria,DZ,DZA,12,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Angola,AO,AGO,24,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Angola,AO,AGO,24,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Antigua and Barbuda,AG,ATG,28,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Antigua and Barbuda,AG,ATG,28,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Argentina,AR,ARG,32,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Argentina,AR,ARG,32,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Armenia,AM,ARM,51,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Armenia,AM,ARM,51,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Australia,AU,AUS,36,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Australia,AU,AUS,36,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Austria,AT,AUT,40,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Austria,AT,AUT,40,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Azerbaijan,AZ,AZE,31,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Azerbaijan,AZ,AZE,31,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Bahamas,BS,BHS,44,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Bahamas,BS,BHS,44,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Bahrain,BH,BHR,48,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Bahrain,BH,BHR,48,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Bangladesh,BD,BGD,50,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Bangladesh,BD,BGD,50,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Barbados,BB,BRB,52,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Barbados,BB,BRB,52,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Belarus,BY,BLR,112,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Belarus,BY,BLR,112,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Belgium,BE,BEL,56,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Belgium,BE,BEL,56,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Belize,BZ,BLZ,84,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Belize,BZ,BLZ,84,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Benin,BJ,BEN,204,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Benin,BJ,BEN,204,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Bhutan,BT,BTN,64,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Bhutan,BT,BTN,64,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Botswana,BW,BWA,72,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Botswana,BW,BWA,72,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Brazil,BR,BRA,76,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Brazil,BR,BRA,76,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Brunei,BN,BRN,96,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Brunei,BN,BRN,96,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Bulgaria,BG,BGR,100,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Bulgaria,BG,BGR,100,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Burkina Faso,BF,BFA,854,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Burkina Faso,BF,BFA,854,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Burundi,BI,BDI,108,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Burundi,BI,BDI,108,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Cape Verde,CV,CPV,132,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Cape Verde,CV,CPV,132,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Cambodia,KH,KHM,116,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Cambodia,KH,KHM,116,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Cameroon,CM,CMR,120,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Cameroon,CM,CMR,120,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Canada,CA,CAN,124,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Canada,CA,CAN,124,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Central African Republic,CF,CAF,140,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Central African Republic,CF,CAF,140,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Chad,TD,TCD,148,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Chad,TD,TCD,148,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Chile,CL,CHL,152,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Chile,CL,CHL,152,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+China,CN,CHN,156,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+China,CN,CHN,156,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Taiwan,TW,TWN,158,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Colombia,CO,COL,170,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Colombia,CO,COL,170,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Comoros,KM,COM,174,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Comoros,KM,COM,174,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Congo,CG,COG,178,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Congo,CG,COG,178,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Costa Rica,CR,CRI,188,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Costa Rica,CR,CRI,188,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Croatia,HR,HRV,191,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Croatia,HR,HRV,191,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Cyprus,CY,CYP,196,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Cyprus,CY,CYP,196,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Czech Republic,CZ,CZE,203,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Czech Republic,CZ,CZE,203,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Ivory Coast,CI,CIV,384,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Ivory Coast,CI,CIV,384,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Denmark,DK,DNK,208,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Denmark,DK,DNK,208,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Djibouti,DJ,DJI,262,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Djibouti,DJ,DJI,262,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Dominica,DM,DMA,212,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Dominica,DM,DMA,212,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Dominican Republic,DO,DOM,214,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Dominican Republic,DO,DOM,214,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Ecuador,EC,ECU,218,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Ecuador,EC,ECU,218,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Egypt,EG,EGY,818,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Egypt,EG,EGY,818,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+El Salvador,SV,SLV,222,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+El Salvador,SV,SLV,222,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Equatorial Guinea,GQ,GNQ,226,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Equatorial Guinea,GQ,GNQ,226,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Eritrea,ER,ERI,232,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Eritrea,ER,ERI,232,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Estonia,EE,EST,233,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Estonia,EE,EST,233,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Swaziland,SZ,SWZ,748,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Swaziland,SZ,SWZ,748,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Ethiopia,ET,ETH,231,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Ethiopia,ET,ETH,231,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Fiji,FJ,FJI,242,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Fiji,FJ,FJI,242,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Finland,FI,FIN,246,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Finland,FI,FIN,246,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+France,FR,FRA,250,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+France,FR,FRA,250,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Gabon,GA,GAB,266,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Gabon,GA,GAB,266,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Gambia,GM,GMB,270,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Gambia,GM,GMB,270,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Georgia,GE,GEO,268,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Georgia,GE,GEO,268,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Germany,DE,DEU,276,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Germany,DE,DEU,276,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Ghana,GH,GHA,288,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Ghana,GH,GHA,288,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Greece,GR,GRC,300,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Greece,GR,GRC,300,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Grenada,GD,GRD,308,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Grenada,GD,GRD,308,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Guatemala,GT,GTM,320,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Guatemala,GT,GTM,320,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Guinea,GN,GIN,324,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Guinea,GN,GIN,324,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Guinea-Bissau,GW,GNB,624,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Guinea-Bissau,GW,GNB,624,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Guyana,GY,GUY,328,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Guyana,GY,GUY,328,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Haiti,HT,HTI,332,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Haiti,HT,HTI,332,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Honduras,HN,HND,340,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Honduras,HN,HND,340,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Hungary,HU,HUN,348,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Hungary,HU,HUN,348,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Iceland,IS,ISL,352,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Iceland,IS,ISL,352,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+India,IN,IND,356,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+India,IN,IND,356,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Indonesia,ID,IDN,360,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Indonesia,ID,IDN,360,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Iraq,IQ,IRQ,368,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Iraq,IQ,IRQ,368,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Ireland,IE,IRL,372,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Ireland,IE,IRL,372,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Israel,IL,ISR,376,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Israel,IL,ISR,376,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Italy,IT,ITA,380,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Italy,IT,ITA,380,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Jamaica,JM,JAM,388,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Jamaica,JM,JAM,388,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Japan,JP,JPN,392,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Japan,JP,JPN,392,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Jordan,JO,JOR,400,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Jordan,JO,JOR,400,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Kazakhstan,KZ,KAZ,398,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Kazakhstan,KZ,KAZ,398,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Kenya,KE,KEN,404,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Kenya,KE,KEN,404,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Kiribati,KI,KIR,296,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Kiribati,KI,KIR,296,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Kuwait,KW,KWT,414,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Kuwait,KW,KWT,414,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Kyrgyzstan,KG,KGZ,417,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Kyrgyzstan,KG,KGZ,417,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Latvia,LV,LVA,428,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Latvia,LV,LVA,428,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Lebanon,LB,LBN,422,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Lebanon,LB,LBN,422,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Lesotho,LS,LSO,426,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Lesotho,LS,LSO,426,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Liberia,LR,LBR,430,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Liberia,LR,LBR,430,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Lithuania,LT,LTU,440,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Lithuania,LT,LTU,440,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Luxembourg,LU,LUX,442,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Luxembourg,LU,LUX,442,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Madagascar,MG,MDG,450,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Madagascar,MG,MDG,450,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Malawi,MW,MWI,454,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Malawi,MW,MWI,454,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Malaysia,MY,MYS,458,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Malaysia,MY,MYS,458,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Maldives,MV,MDV,462,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Maldives,MV,MDV,462,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Mali,ML,MLI,466,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Mali,ML,MLI,466,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Malta,MT,MLT,470,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Malta,MT,MLT,470,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Marshall Islands,MH,MHL,584,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Marshall Islands,MH,MHL,584,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Mauritania,MR,MRT,478,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Mauritania,MR,MRT,478,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Mauritius,MU,MUS,480,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Mauritius,MU,MUS,480,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Mexico,MX,MEX,484,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Mexico,MX,MEX,484,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Mongolia,MN,MNG,496,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Mongolia,MN,MNG,496,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Montenegro,ME,MNE,499,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Montenegro,ME,MNE,499,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Morocco,MA,MAR,504,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Morocco,MA,MAR,504,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Mozambique,MZ,MOZ,508,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Mozambique,MZ,MOZ,508,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Myanmar,MM,MMR,104,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Myanmar,MM,MMR,104,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Namibia,,NAM,516,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Namibia,,NAM,516,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Nepal,NP,NPL,524,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Nepal,NP,NPL,524,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Netherlands,NL,NLD,528,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Netherlands,NL,NLD,528,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+New Zealand,NZ,NZL,554,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+New Zealand,NZ,NZL,554,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Nicaragua,NI,NIC,558,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Nicaragua,NI,NIC,558,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Niger,NE,NER,562,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Niger,NE,NER,562,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Nigeria,NG,NGA,566,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Nigeria,NG,NGA,566,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Norway,NO,NOR,578,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Norway,NO,NOR,578,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Oman,OM,OMN,512,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Oman,OM,OMN,512,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Pakistan,PK,PAK,586,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Pakistan,PK,PAK,586,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Palau,PW,PLW,585,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Palau,PW,PLW,585,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Panama,PA,PAN,591,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Panama,PA,PAN,591,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Papua New Guinea,PG,PNG,598,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Papua New Guinea,PG,PNG,598,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Paraguay,PY,PRY,600,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Paraguay,PY,PRY,600,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Peru,PE,PER,604,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Peru,PE,PER,604,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Philippines,PH,PHL,608,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Philippines,PH,PHL,608,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Poland,PL,POL,616,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Poland,PL,POL,616,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Portugal,PT,PRT,620,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Portugal,PT,PRT,620,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Puerto Rico,PR,PRI,630,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Qatar,QA,QAT,634,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Qatar,QA,QAT,634,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+South Korea,KR,KOR,410,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+South Korea,KR,KOR,410,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+"Moldova, Republic of",MD,MDA,498,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+"Moldova, Republic of",MD,MDA,498,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Romania,RO,ROU,642,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Russian Federation,RU,RUS,643,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Russian Federation,RU,RUS,643,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Rwanda,RW,RWA,646,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Rwanda,RW,RWA,646,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Saint Lucia,LC,LCA,662,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Saint Lucia,LC,LCA,662,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Samoa,WS,WSM,882,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Samoa,WS,WSM,882,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+San Marino,SM,SMR,674,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+San Marino,SM,SMR,674,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Sao Tome and Principe,ST,STP,678,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Sao Tome and Principe,ST,STP,678,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Saudi Arabia,SA,SAU,682,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Saudi Arabia,SA,SAU,682,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Senegal,SN,SEN,686,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Senegal,SN,SEN,686,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Serbia,RS,SRB,688,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Serbia,RS,SRB,688,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Seychelles,SC,SYC,690,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Seychelles,SC,SYC,690,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Sierra Leone,SL,SLE,694,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Sierra Leone,SL,SLE,694,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Singapore,SG,SGP,702,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Singapore,SG,SGP,702,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Slovakia,SK,SVK,703,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Slovakia,SK,SVK,703,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Slovenia,SI,SVN,705,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Slovenia,SI,SVN,705,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Solomon Islands,SB,SLB,90,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Solomon Islands,SB,SLB,90,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Somalia,SO,SOM,706,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Somalia,SO,SOM,706,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+South Africa,ZA,ZAF,710,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+South Africa,ZA,ZAF,710,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+South Sudan,SS,SSD,728,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+South Sudan,SS,SSD,728,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Spain,ES,ESP,724,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Spain,ES,ESP,724,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Sri Lanka,LK,LKA,144,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Sri Lanka,LK,LKA,144,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Sudan,SD,SDN,736,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Sudan,SD,SDN,736,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Suriname,SR,SUR,740,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Suriname,SR,SUR,740,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Sweden,SE,SWE,752,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Sweden,SE,SWE,752,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Switzerland,CH,CHE,756,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Switzerland,CH,CHE,756,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+Syrian Arab Republic,SY,SYR,760,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Syrian Arab Republic,SY,SYR,760,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Tajikistan,TJ,TJK,762,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Tajikistan,TJ,TJK,762,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Thailand,TH,THA,764,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Thailand,TH,THA,764,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Timor-Leste,TL,TLS,626,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+Togo,TG,TGO,768,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Togo,TG,TGO,768,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Tonga,TO,TON,776,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Tonga,TO,TON,776,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Trinidad and Tobago,TT,TTO,780,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Trinidad and Tobago,TT,TTO,780,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Tunisia,TN,TUN,788,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Tunisia,TN,TUN,788,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Turkey,TR,TUR,792,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Turkey,TR,TUR,792,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Uganda,UG,UGA,800,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Uganda,UG,UGA,800,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Ukraine,UA,UKR,804,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Ukraine,UA,UKR,804,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+United Arab Emirates,AE,ARE,784,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+United Arab Emirates,AE,ARE,784,Maternity leave benefits,2024,0,Total,,Binary,,,,Total
+United Kingdom,GB,GBR,826,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+United Kingdom,GB,GBR,826,Maternity leave benefits,2024,1,Total,,Binary,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+United States,US,USA,840,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+United States,US,USA,840,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Uruguay,UY,URY,858,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Uruguay,UY,URY,858,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Uzbekistan,UZ,UZB,860,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Uzbekistan,UZ,UZB,860,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Vanuatu,VU,VUT,548,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Vanuatu,VU,VUT,548,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Vietnam,VN,VNM,704,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Vietnam,VN,VNM,704,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Yemen,YE,YEM,887,Maternity leave benefits,2024,0,Female,,Binary,,,,Total
+Yemen,YE,YEM,887,Maternity leave benefits,2022,0,Total,,Binary,,,,Total
+Zambia,ZM,ZMB,894,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Zambia,ZM,ZMB,894,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
+Zimbabwe,ZW,ZWE,716,Maternity leave benefits,2024,1,Female,,Binary,,,,Total
+Zimbabwe,ZW,ZWE,716,Maternity leave benefits,2022,1,Total,,Binary,,,,Total
