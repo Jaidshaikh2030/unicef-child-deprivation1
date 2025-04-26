@@ -11,9 +11,7 @@ format:
     toc-location: left
     code-fold: true
     embed-resources: true
----
-
-# Introduction: Born into Unequal Beginnings
+---# Introduction: Born into Unequal Beginnings
 
 **A child's fate begins at birth — but not every beginning is equal.**
 
